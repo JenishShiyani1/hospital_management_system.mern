@@ -1,0 +1,70 @@
+ .login-container {
+    background-color: rgb(154, 154, 207);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+ }
+
+ .card {
+     background-color: rgba(255, 255, 255, 0.2);
+     border: none;
+     border-radius: 10px;
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+ }
+
+ .card-title {
+     font-size: 36px;
+     font-weight: bold;
+     text-align: center;
+     margin-bottom: 20px;
+     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+ }
+
+ .btn-custom {
+    margin-left: 60px;
+     margin-top: 10px;
+ }
+
+ .btn-admin {
+     background-color: #17a2b8;
+     border-color: #17a2b8;
+ }
+
+ .btn-admin:hover {
+     background-color: #138496;
+     border-color: #138496;
+ }
+
+ .btn-doctor {
+     background-color: #28a745;
+     border-color: #28a745;
+ }
+
+ .btn-doctor:hover {
+     background-color: #218838;
+     border-color: #218838;
+ }
+
+ .btn-patient {
+     background-color: #ffc107;
+     border-color: #ffc107;
+ }
+
+ .btn-patient:hover {
+     background-color: #e0a800;
+     border-color: #e0a800;
+ }
+
+ .register-link {
+     text-align: center;
+     margin-top: 10px;
+ }
+
+ .register-link a {
+     color: #fff;
+ }
+
+ .register-link a:hover {
+     color: #f0f0f0;
+ }

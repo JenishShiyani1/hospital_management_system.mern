@@ -1,0 +1,69 @@
+.container {
+    padding: 15px;
+    background-color: rgb(154, 154, 207);
+  }
+  
+  .title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .input-text,
+  .input-password,
+  .input-email,
+  .input-number,
+  .textarea,
+  .select {
+    margin-bottom: 5px;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  .input-file {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    appearance: none;
+    background-image: url('data:image/svg+xml;utf8,<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 12.586L5.707 8.293a1 1 0 011.414-1.414L10 10.758l3.879-3.879a1 1 0 111.414 1.414L10.707 12.5l-.707-.707zM18 16H2a1 1 0 010-2h16a1 1 0 110 2z" fill="%239CA3AF"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 10px top 50%;
+    background-size: 20px;
+  }
+  
+  .button-submit {
+    margin: 10px;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .button-submit:hover {
+    background-color: #0056b3;
+  }
+  

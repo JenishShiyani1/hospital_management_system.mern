@@ -1,0 +1,33 @@
+.doctor-card {
+  background-color: rgb(154, 154, 207);
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+  td {
+    padding: 10px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .doctor-image img {
+    width: 250px;
+    height: auto;
+    margin-left: 25px;
+  }
+  
+  h2 {
+    margin-top: 0;
+    font-size: 24px;
+    color: #333333;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  

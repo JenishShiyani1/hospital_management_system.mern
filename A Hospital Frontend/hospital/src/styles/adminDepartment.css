@@ -1,0 +1,70 @@
+
+  
+  .container {
+    background-color: rgb(154, 154, 207);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .department-list-link {
+    text-decoration: none;
+  }
+  
+  .department-list-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .department-list-button i {
+    margin-right: 5px;
+  }
+  
+  .department-list-button:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+.input-type {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+  .button1 {
+    background-color: #007bff;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    margin: 20px;
+  }
+
+  .button1:hover {
+    background-color: #0056b3;
+  }
+  
+  
